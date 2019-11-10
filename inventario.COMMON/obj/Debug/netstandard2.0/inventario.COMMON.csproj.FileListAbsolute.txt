@@ -1,0 +1,8 @@
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\bin\Debug\netstandard2.0\inventario.COMMON.deps.json
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\bin\Debug\netstandard2.0\inventario.COMMON.dll
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\bin\Debug\netstandard2.0\inventario.COMMON.pdb
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\obj\Debug\netstandard2.0\inventario.COMMON.csprojAssemblyReference.cache
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\obj\Debug\netstandard2.0\inventario.COMMON.AssemblyInfoInputs.cache
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\obj\Debug\netstandard2.0\inventario.COMMON.AssemblyInfo.cs
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\obj\Debug\netstandard2.0\inventario.COMMON.dll
+F:\Omnitech Development\Visual\1\Inventario\inventario.COMMON\obj\Debug\netstandard2.0\inventario.COMMON.pdb

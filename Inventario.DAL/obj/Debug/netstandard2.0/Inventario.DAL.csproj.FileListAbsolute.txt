@@ -1,0 +1,4 @@
+F:\Omnitech Development\Visual\1\Inventario\Inventario.DAL\bin\Debug\netstandard2.0\inventario.COMMON.dll
+F:\Omnitech Development\Visual\1\Inventario\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csprojAssemblyReference.cache
+F:\Omnitech Development\Visual\1\Inventario\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfoInputs.cache
+F:\Omnitech Development\Visual\1\Inventario\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfo.cs
